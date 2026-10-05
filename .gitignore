@@ -1,0 +1,12 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Trained Model Weights (too large for standard git)
+spoof_cnn_model.pth
+
+# Private Personal Face Data
+custom_data/
+
+# VS Code settings
+.vscode/
